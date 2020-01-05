@@ -3,10 +3,8 @@
 namespace Butterfly\Search;
 
 /**
- * Class Manager
- * @package Butterfly\Search
+ * Class Manager.
  */
 class Manager
 {
-    
 }
